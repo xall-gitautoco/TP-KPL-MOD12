@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "PC2bE0qqubDfo4Gc6Y1diiAPIHsblOHxt6Rf6D8/L8alaMY8jSer0ioFiRt0Wk1W6WKF93KOvgduJwf3oW1Dfw==",
+  "success": false,
+  "projectFilePath": "C:\\Programing\\C#\\tpmodul12_1302220093\\UnitTesting\\UnitTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RD FAISAL\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\RD FAISAL\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\RD FAISAL\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "C:\\Users\\RD FAISAL\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "C:\\Users\\RD FAISAL\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "C:\\Users\\RD FAISAL\\.nuget\\packages\\mstest.testadapter\\3.1.1\\mstest.testadapter.3.1.1.nupkg.sha512",
+    "C:\\Users\\RD FAISAL\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512",
+    "C:\\Users\\RD FAISAL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\RD FAISAL\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\RD FAISAL\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project tpmodul12_1302220093 is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Project tpmodul12_1302220093 supports: net8.0-windows7.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "tpmodul12_1302220093",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
